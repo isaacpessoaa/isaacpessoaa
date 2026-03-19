@@ -25,9 +25,7 @@
 
 ## 🌐 Contact
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/isaac-alves-3770063a7" target="_blank">
-    ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-  </a>
-</p>
+## 🌐 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaac-alves-3770063a7)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/isaacpessoaa)
