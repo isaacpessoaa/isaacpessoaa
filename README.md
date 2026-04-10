@@ -20,7 +20,7 @@
 
 ### 📊 Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=isaacpessoaa&show_icons=true&theme=default)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=isaacpessoaa&show_icons=true&theme=default)](https://github-readme-stats.vercel.app/api?username=isaacpessoaa)
 
 ---
 
