@@ -14,7 +14,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
 </p>
 
@@ -22,7 +21,7 @@
 
 ### 📊 Statistics
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=isaacpessoaa&show_icons=true&theme=default)](https://github-readme-stats.vercel.app/api?username=isaacpessoaa)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=isaacpessoaa&show_icons=true&theme=default)]
 
 ---
 
