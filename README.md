@@ -26,11 +26,10 @@
 ### 🧰 Stacks & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,express,postgres,mysql,prisma,html,css,angular,ionic,py,c,git,github,vscode,windows&theme=dark" alt="stacks" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,express,postgres,mysql,prisma,angular,py,git,github,vscode&theme=dark" alt="stacks" />
 </p>
 
-<details>
-<summary>📋 Tech details</summary>
+### ⚒️ Tech Details
 <br>
 
 **Backend**
@@ -52,20 +51,15 @@
 
 **Languages**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-F7DF1E?style=for-the-badge&logo=typescript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
-**AI / APIs**
-![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
 
 **Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-</details>
 
 ---
 
@@ -99,13 +93,6 @@
       Operating system simulator (Operating Systems course).<br><br>
       <b>Stack:</b> C (ported from Python).<br><br>
       <b>Highlights:</b> Round Robin scheduling, semaphores, DFS-based deadlock detection, KERNEL PANIC trigger.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" colspan="2" align="center">
-      <h4>🛍️ TrendHolm</h4>
-      E-commerce store targeting the UK health & beauty market.<br>
-      Branding, visual identity and ads setup (Meta Ads).
     </td>
   </tr>
 </table>
