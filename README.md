@@ -1,4 +1,3 @@
-7C+Foco+em+Backend;Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o+-+UNINASSAU;Node.js+%2B+PostgreSQL+%2B+Prisma;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
 </p><h1 align="center">Olá, eu sou o Isaac 👋</h1>
 
 <p align="center">
