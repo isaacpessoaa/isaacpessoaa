@@ -18,7 +18,6 @@
 - 🎓 Studying **Information Systems** at **UNINASSAU**
 - 💻 **Fullstack Developer**, focused on **Backend development**
 - 🛠️ I like building well-structured APIs, with clean architecture and maintainable code
-- 🌱 Always migrating, refactoring and evolving my projects (Flask → Node.js, SQLite → PostgreSQL, and so on)
 - 📫 Check out the projects below to see what I've been building!
 
 ---
