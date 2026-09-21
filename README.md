@@ -25,7 +25,7 @@
 ### 🧰 Stacks & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,py,js,ts,nodejs,express,html,css,postgres,mysql,git,github,vscode&theme=dark" alt="stacks" />
+  <img src="https://skillicons.dev/icons?i=java,springboot,py,js,ts,nodejs,express,html,css,postgres,mysql,git,github,vscode&theme=dark" alt="stacks" />
 </p>
 
 ### ⚒️ Tech Details
