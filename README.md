@@ -16,7 +16,7 @@
 ### 🧑‍💻 About me
 
 - 🎓 Studying **Information Systems** at **UNINASSAU**
-- 💻 **Fullstack Developer**, focused on **Backend development**
+- 💻 **Software Engeneer**, focused on **Backend development**
 - 🛠️ I like building well-structured APIs, with clean architecture and maintainable code
 - 📫 Check out the projects below to see what I've been building!
 
@@ -25,7 +25,7 @@
 ### 🧰 Stacks & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,express,postgres,mysql,prisma,angular,py,git,github,vscode&theme=dark" alt="stacks" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,express,java  springboot, postgres,mysql,py,git,github,vscode&theme=dark" alt="stacks" />
 </p>
 
 ### ⚒️ Tech Details
