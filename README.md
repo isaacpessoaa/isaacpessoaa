@@ -105,7 +105,3 @@
 <p align="center">
   <img src="https://github-readme-stats-private-five.vercel.app/api/top-langs/?username=isaacpessoaa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=isaacpessoaa&theme=tokyo-night&hide_border=true" alt="activity graph"/>
-</p>
