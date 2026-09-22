@@ -98,20 +98,14 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=isaacpessoaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats-private-five.vercel.app/api?username=isaacpessoaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=isaacpessoaa&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacpessoaa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs"/>
+  <img src="https://github-readme-stats-private-five.vercel.app/api/top-langs/?username=isaacpessoaa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=isaacpessoaa&theme=tokyo-night&hide_border=true" alt="activity graph"/>
-</p>
-
----
-
-<p align="center">
-  <i>"Migrating, refactoring and evolving — one commit at a time." 🚀</i>
 </p>
