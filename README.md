@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Isaac 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Software+Engeneer;Backend+Focused;Information+Systems+Student+-+UNINASSAU;Always+learning+something+new+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Software+Engineer;Backend+Focused;Information+Systems+Student+-+UNINASSAU;Always+learning+something+new+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 ### 🧑‍💻 About me
 
 - 🎓 Studying **Information Systems** at **UNINASSAU**
-- 💻 **Software Engeneer**, focused on **Backend development**
+- 💻 **Software Engineer**, focused on **Backend development**
 - 🛠️ I like building well-structured APIs, with clean architecture and maintainable code
 - 📫 Check out the projects below to see what I've been building!
 
