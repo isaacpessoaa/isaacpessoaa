@@ -16,7 +16,7 @@
 ### 🧑‍💻 About me
 
 - 🎓 Studying **Information Systems** at **UNINASSAU**
-- 💻 **Software Engineer**, focused on **Backend development**
+- 💻 **Software Engineer**, focused on **Backend Development**
 - 🛠️ I like building well-structured APIs, with clean architecture and maintainable code
 - 📫 Check out the projects below to see what I've been building!
 
